@@ -193,7 +193,7 @@ export default function ContactPage() {
             <div className="bg-white bg-opacity-10 rounded-lg p-8 backdrop-filter backdrop-blur-sm">
               <h2 className="text-2xl font-bold text-white mb-4">Ready to Start Your Project?</h2>
               <p className="text-gray-200 mb-6">
-                I&apos;m always excited to work on new challenges and help bring innovative ideas to life. Let's discuss your
+                I&apos;m always excited to work on new challenges and help bring innovative ideas to life. Let&apos;s discuss your
                 project requirements and see how we can work together.
               </p>
               <div className="flex flex-wrap justify-center space-x-6 mt-4">
