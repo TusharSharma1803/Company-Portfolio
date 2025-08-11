@@ -204,7 +204,7 @@ export default function ContactPage() {
                   <i className="fas fa-envelope mr-2"></i>Email Me
                 </a>
                 <a
-                  href="https://linkedin.com/in/tusharsharma"
+                  href="https://www.linkedin.com/in/tushar-18-sharma/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors inline-flex items-center"

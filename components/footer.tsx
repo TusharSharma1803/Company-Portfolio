@@ -1,25 +1,25 @@
 export default function Footer() {
   const socialItems = [
     {
-      href: "https://linkedin.com/in/tusharsharma",
+      href: "https://www.linkedin.com/in/tushar-18-sharma/",
       icon: "fab fa-linkedin-in",
       tooltip: "LinkedIn",
       className: "linkedin",
     },
     {
-      href: "https://github.com/tusharsharma",
+      href: "https://github.com",
       icon: "fab fa-github",
       tooltip: "GitHub",
       className: "github",
     },
     {
-      href: "https://twitter.com/tusharsharma",
+      href: "https://twitter.com",
       icon: "fab fa-twitter",
       tooltip: "Twitter",
       className: "twitter",
     },
     {
-      href: "mailto:tushar.sharma@email.com",
+      href: "mailto:work.tushar1803@gmail.com",
       icon: "fas fa-at",
       tooltip: "Email",
       className: "email",
