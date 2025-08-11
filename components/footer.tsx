@@ -45,8 +45,8 @@ export default function Footer() {
             ))}
           </div>
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 Tushar Sharma. All rights reserved.</p>
-            <p className="text-sm mt-2">Senior .NET Developer | Building scalable solutions</p>
+            <p>&copy; 2025 Tushar Sharma. All rights reserved.</p>
+            <p className="text-sm mt-2">Software Engineer L1 | Building scalable solutions</p>
           </div>
         </div>
       </div>

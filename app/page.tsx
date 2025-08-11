@@ -56,12 +56,13 @@ export default function HomePage() {
                 technologies. Ready to bring your ideas to life!
               </p>
               <div className="flex flex-wrap gap-4 mb-8">
-                <button
-                  onClick={handleDownloadResume}
+                <a
+                  href="Tushar_Resume-3.pdf" download="Tushar_Sharma_Resume.pdf"
+                  // onClick={handleDownloadResume}
                   className="contact-btn text-white px-8 py-4 rounded-full font-semibold text-lg"
                 >
                   <i className="fas fa-download mr-2"></i>Download Resume
-                </button>
+                </a>
                 <Link
                   href="/contact"
                   className="border-2 border-white text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-white hover:text-orange-500 transition-all inline-flex items-center"
