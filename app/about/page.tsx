@@ -49,7 +49,7 @@ export default function AboutPage() {
                   <i className="fas fa-graduation-cap text-2xl text-orange-500 mr-4"></i>
                   <h3 className="text-xl font-semibold text-white">Education</h3>
                 </div>
-                <p className="text-gray-300">Bachelor's in Computer Science</p>
+                <p className="text-gray-300">Bachelor&apos;s in Computer Science</p>
                 <p className="text-sm text-gray-400">University of Technology (2018-2022)</p>
               </div>
 

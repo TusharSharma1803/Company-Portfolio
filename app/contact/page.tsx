@@ -72,10 +72,10 @@ export default function ContactPage() {
       <section className="py-20 gradient-bg pt-32 md:pt-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Let's Work Together</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Let&apos;s Work Together</h1>
             <div className="w-24 h-1 bg-yellow-300 mx-auto mb-6"></div>
             <p className="text-xl text-white opacity-90">
-              Ready to bring your next project to life? Let's discuss how I can help!
+              Ready to bring your next project to life? Let&apos;s discuss how I can help!
             </p>
           </div>
 
@@ -193,7 +193,7 @@ export default function ContactPage() {
             <div className="bg-white bg-opacity-10 rounded-lg p-8 backdrop-filter backdrop-blur-sm">
               <h2 className="text-2xl font-bold text-white mb-4">Ready to Start Your Project?</h2>
               <p className="text-gray-200 mb-6">
-                I'm always excited to work on new challenges and help bring innovative ideas to life. Let's discuss your
+                I&apos;m always excited to work on new challenges and help bring innovative ideas to life. Let's discuss your
                 project requirements and see how we can work together.
               </p>
               <div className="flex flex-wrap justify-center space-x-6 mt-4">

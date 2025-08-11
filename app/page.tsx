@@ -48,7 +48,7 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="text-white">
               <h1 className="text-5xl md:text-7xl font-bold mb-6">
-                Hi, I'm <span className="text-yellow-300">Tushar</span>
+                Hi, I&apos;m <span className="text-yellow-300">Tushar</span>
               </h1>
               <div className="text-2xl md:text-3xl mb-6 typewriter">Senior .NET Developer</div>
               <p className="text-xl mb-8 opacity-90">
